@@ -4,7 +4,7 @@ Um sorteador de números simples, rápido e intuitivo desenvolvido com HTML, CSS
 
 ## 🚀 Demonstração
 
-🔗 Acesse o projeto: [Clique aqui](COLE_AQUI_O_LINK_DO_GITHUB_PAGES)
+🔗 Acesse o projeto: [Clique aqui](https://christianpinho.github.io/sorteador-numeros/)
 
 ---
 
